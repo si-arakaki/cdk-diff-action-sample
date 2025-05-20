@@ -1,0 +1,11 @@
+services:
+  app:
+    image: github.com/si-arakaki/cdk-diff-action-sample
+    build:
+      context: ..
+      dockerfile: ./.devcontainer/Dockerfile
+    container_name: cdk-diff-action-sample-app
+    command: sleep infinity
+    volumes:
+      - ~/.aws:/home/vscode/.aws
+      - ..:/home/vscode/github.com/si-arakaki/cdk-diff-action-sample

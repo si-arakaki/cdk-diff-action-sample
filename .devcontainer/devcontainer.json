@@ -1,0 +1,16 @@
+{
+  "name": "cdk-diff-action-sample",
+  "dockerComposeFile": [
+    "compose.yaml"
+  ],
+  "service": "app",
+  "remoteUser": "vscode",
+  "workspaceFolder": "/home/vscode/github.com/si-arakaki/cdk-diff-action-sample",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go"
+      ]
+    }
+  }
+}
