@@ -1,6 +1,6 @@
 # cdk-diff-action-sample
 
-> <img width="640" alt="cdk diff" src="https://github.com/user-attachments/assets/30ea67e8-c47b-4443-b4e8-719145650e0f" />
+<img width="640" alt="cdk diff" src="https://github.com/user-attachments/assets/52c88ada-f035-48ee-a699-64e30382ee8a" />
 
 ## arn:aws:iam::123456789012:role/cdk-diff-action-sample
 
